@@ -1,6 +1,6 @@
 def day13():
     """
-
+    change stage to 1 for first only
     :return: nothing, done through prints at the end
     """
     file = open("inputs/input13.txt")
