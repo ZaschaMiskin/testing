@@ -35,5 +35,4 @@ def day14():
     return max(c.values()) - min(c.values())
 
 
-
-print(day14_2())
+print(day14())
